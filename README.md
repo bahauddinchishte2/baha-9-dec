@@ -3,6 +3,8 @@
 [Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/bahauddinco/protfolio-share)
 
 
-Personal Note: 
+Personal Note for next Prompt: 
 
-The blog actually not looks good. it seems same text format and big paragraph. How I can use heading, italic bold, link embeed etc feature? You do now have to write theblog post but let me know the stracture or etc that I should follow. For low token use I actually remove my long blog post
+– Add the markdown feature to each blog post. 
+
+– Can you please tell me why we use index.ts for some sections updates? and I see there is a component folder which we can use to update the data. So whats the difrerence between components folder and data folder index.ts file? I am little cofused here.
